@@ -1,8 +1,7 @@
 # ParksCli
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/parks_cli`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to a National Parks Repository CLI Gem! Here you'll be able to get a list of USA States and Territories that will return all of their National Parks, as well as be able to select the park/s of your choice to see more information on each!
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
@@ -22,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+By running ./bin/console in your terminal you'll be retuned a list of States. From there you can select a State by typing its name in to the command line, thus returning all of the States National Parks. Once you see the park you'd like more information on simply type in the number next to the parks name and you'll be retuned information regarding said park. Once you've finished looking over your park you can type 'list' to look at more parks or 'exit' to exit the program.  
 
 ## Development
 
